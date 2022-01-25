@@ -41,6 +41,7 @@ a {
   font-size: 16px;
   font-weight: 800;
   margin-right: 80px;
+  
 }
 
 .nav_links li a:hover {
@@ -57,7 +58,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(/m1_d06-lab-css_spotify_clone-Lebow-cloud/images/landing.jpg);
+  background-image: url(/images/landing.jpg);
   height: 900px;
   width: 100%;
   color: white;
@@ -93,7 +94,7 @@ a {
 }
 
 #whatson p{
-    width: 181px;
+    width: 215px;
     text-align: center;
     font-weight: 500;
     
@@ -108,9 +109,30 @@ a {
 
 .squares {
     text-align: center;
-    padding: 100px 200px;
+    justify-content: center;
+    padding: 20px 73px;
 }
  .squares img{
     width: 100px;
     
 }
+
+#greenbackground h1 {
+  color: white;
+  text-decoration: underline white;
+  
+}
+
+.green {
+  display: flex;
+  background-color: rgb(13, 128, 70);
+  height: 500px;
+
+
+  
+}
+
+.icon {
+  justify-content:  center;
+}
+
