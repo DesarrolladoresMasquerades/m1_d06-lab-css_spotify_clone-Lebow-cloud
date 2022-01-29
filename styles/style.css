@@ -114,3 +114,53 @@ a {
     width: 100px;
     
 }
+
+#greenbackground {
+  height: 900px; 
+  background-color: rgb(51, 86, 54);
+  display: flex;
+  margin-right: 10px;
+  margin-left: 10px;
+  justify-content: space-around;
+
+  
+}
+
+
+.kanye-text {
+  margin-top: 110px;
+  width:430px;
+}
+
+#greenbackground h1 {
+  color: white;
+  text-decoration: underline;
+  font-size: 35px;
+  margin-bottom: 100px;
+  
+ 
+}
+
+#greenbackground h2 {
+  color: white;
+  margin-top: 25px;
+}
+
+#greenbackground p {
+  color: white;
+  font-size: 20px;
+  line-height: 2;
+  height:120px;
+  width:350px
+}
+
+.kanye-img  {
+  margin-top: 180px;
+  height: 600px;
+}
+
+.white-logo {
+  background-image: url("/m1_d06-lab-css_spotify_clone-Lebow-cloud/images/spotify-icon-white.png");
+  width: 50;
+  height: 50;
+}
