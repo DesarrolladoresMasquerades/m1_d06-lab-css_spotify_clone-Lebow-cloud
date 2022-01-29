@@ -58,7 +58,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(/images/landing.jpg);
+  background-image: url(/m1_d06-lab-css_spotify_clone-Lebow-cloud/images/landing.jpg);
   height: 900px;
   width: 100%;
   color: white;
@@ -117,7 +117,6 @@ a {
     
 }
 
-<<<<<<< HEAD
 #greenbackground {
   height: 900px; 
   background-color: rgb(51, 86, 54);
@@ -158,33 +157,13 @@ a {
 }
 
 .kanye-img  {
-  margin-top: 180px;
+  margin-top:200px;
   height: 600px;
 }
 
 .white-logo {
-  background-image: url("/m1_d06-lab-css_spotify_clone-Lebow-cloud/images/spotify-icon-white.png");
-  width: 50;
-  height: 50;
-}
-=======
-#greenbackground h1 {
-  color: white;
-  text-decoration: underline white;
   
+  width: 100px;
+  padding-top: 430px;
+  padding-right: 100px;
 }
-
-.green {
-  display: flex;
-  background-color: rgb(13, 128, 70);
-  height: 500px;
-
-
-  
-}
-
-.icon {
-  justify-content:  center;
-}
-
->>>>>>> f5504a457b69c0596b3c1703f41fa962f84e41d2
